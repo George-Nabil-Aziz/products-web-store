@@ -27,7 +27,7 @@ function ProductsList() {
 
   return (
     <>
-      <h2 className="text-center p-3">Our Products</h2>
+      <h2 className="text-center p-3">Our Main Products</h2>
       {product ? (
         <div className="container">
           <div className="text-center">
